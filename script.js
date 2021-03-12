@@ -6,4 +6,4 @@ let predio = {
     
   };
   console.log(predio.elevadores);
-  console.log(predio.empresariais);
+  console.log(predio.empresariais); // noçoes de propriedades de objetos.
